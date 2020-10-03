@@ -15,7 +15,7 @@ authors:
 tags: []
 categories: []
 date: '2020-01-01'
-lastmod: 2020-10-02T20:32:55-04:00
+lastmod: 2020-10-02T21:00:26-04:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-03T00:32:55.010801Z'
+publishDate: '2020-10-03T01:00:26.243755Z'
 publication_types:
 - 2
 abstract: "Objectives: To develop a prognostic model to predict the probability of\

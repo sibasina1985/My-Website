@@ -15,7 +15,7 @@ authors:
 tags: []
 categories: []
 date: '2019-01-01'
-lastmod: 2020-10-02T20:32:56-04:00
+lastmod: 2020-10-02T21:00:27-04:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-03T00:32:56.252212Z'
+publishDate: '2020-10-03T01:00:27.711127Z'
 publication_types:
 - 2
 abstract: "Background: Return to sport (RTS) criteria are widely being used to identify\

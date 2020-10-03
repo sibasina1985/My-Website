@@ -17,7 +17,7 @@ tags:
 - '"Skill level"'
 categories: []
 date: '2015-01-01'
-lastmod: 2020-10-02T20:32:57-04:00
+lastmod: 2020-10-02T21:00:29-04:00
 featured: false
 draft: false
 
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-03T00:32:57.616241Z'
+publishDate: '2020-10-03T01:00:29.437382Z'
 publication_types:
 - 2
 abstract: © 2015 Elsevier B.V. Identification of control strategies during agility

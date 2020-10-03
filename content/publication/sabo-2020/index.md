@@ -14,7 +14,7 @@ authors:
 tags: []
 categories: []
 date: '2020-01-01'
-lastmod: 2020-10-02T20:32:54-04:00
+lastmod: 2020-10-02T21:00:25-04:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-03T00:32:54.070523Z'
+publishDate: '2020-10-03T01:00:25.164099Z'
 publication_types:
 - 2
 abstract: "Background: Parkinsonism is common in people with dementia, and is associated\

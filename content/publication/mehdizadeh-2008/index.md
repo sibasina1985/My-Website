@@ -17,7 +17,7 @@ tags:
 - '"Mechanical behavior"'
 categories: []
 date: '2008-01-01'
-lastmod: 2020-10-02T20:32:58-04:00
+lastmod: 2020-10-02T21:00:31-04:00
 featured: false
 draft: false
 
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-03T00:32:58.789736Z'
+publishDate: '2020-10-03T01:00:30.962520Z'
 publication_types:
 - 2
 abstract: Characterizing the differences between the mechanical properties of brain

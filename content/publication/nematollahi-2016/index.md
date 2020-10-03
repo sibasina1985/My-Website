@@ -16,7 +16,7 @@ authors:
 tags: []
 categories: []
 date: '2016-01-01'
-lastmod: 2020-10-02T20:32:57-04:00
+lastmod: 2020-10-02T21:00:29-04:00
 featured: false
 draft: false
 
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-03T00:32:57.426524Z'
+publishDate: '2020-10-03T01:00:29.204236Z'
 publication_types:
 - 2
 abstract: Copyright © 2016 Nematollahi et al. This is an open access article distributed

@@ -18,7 +18,7 @@ tags:
 - '"sports performance"'
 categories: []
 date: '2016-01-01'
-lastmod: 2020-10-02T20:32:57-04:00
+lastmod: 2020-10-02T21:00:29-04:00
 featured: false
 draft: false
 
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-03T00:32:57.218393Z'
+publishDate: '2020-10-03T01:00:28.962413Z'
 publication_types:
 - 2
 abstract: © 2014 European College of Sport Science. The aim of this study was to investigate
