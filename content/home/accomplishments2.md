@@ -50,7 +50,7 @@ item:
   date_start: "2020-02-01"
   description:
   organization: University of Toronto
-  organization_url: ""
+  organization_url:
   title: Certificate of Prospective Professors in Training
   url: """https://gradstudies.engineering.utoronto.ca/research-degrees/prospective-professors-in-training/#:~:text=Prospective%20Professors%20in%20Training%20(PPIT),-The%20Prospective%20Professors&text=Participants%20are%20selected%20from%20among,are%20also%20welcome%20to%20apply"""
 
