@@ -74,4 +74,4 @@ user_groups:
 - Visitors
 ---
 
-Sina Mehdizadeh is a postdoctoral fellow at the Toronto Rehabilitation Institute. His research interests include neuromechanics of human locomotion.
+I am a postdoctoral fellow at the Toronto Rehabilitation Institute. My research interests include neuromechanics of human locomotion.
