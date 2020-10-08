@@ -25,8 +25,8 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "February 2020"
-  Amount = "344,250 CAD"
-  My role = "Co-investigator"
+  date_end = ""
+  description = ""
 
 [[item]]
   organization = "edX"
