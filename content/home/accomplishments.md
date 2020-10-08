@@ -88,7 +88,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
-[item]]
+[[item]]
   organization = "AGE-WELL NCE"
   organization_url = ""
   title = "ACCESS Award"
@@ -98,7 +98,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
-[item]]
+[[item]]
   organization = "UHN Office of Research Trainees"
   organization_url = ""
   title = "Travel Award"
@@ -108,7 +108,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
-[item]]
+[[item]]
   organization = "AGE-WELL NCE"
   organization_url = ""
   title = "Travel Award"
@@ -118,7 +118,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
-[item]]
+[[item]]
   organization = "2nd International Berlin Autumn School on Movement Science"
   organization_url = ""
   title = "Travel Award"
