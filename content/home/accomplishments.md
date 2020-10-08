@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   title = """Computer vision for daily monitoring of gait instability to detect an increased risk of falling"""
   url = ""
   certificate_url = ""
-  date_start = "February 2020"
+  date_start = "2020-02-01"
   date_end = ""
   description = ""
 
