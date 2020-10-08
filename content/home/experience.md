@@ -24,13 +24,7 @@ date_format = "Jan 2006"
   location = "Toronto, Canada"
   date_start = "2018-10-15"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = """ """
 
 [[experience]]
   title = "Senior Biomechanics"
@@ -39,6 +33,6 @@ date_format = "Jan 2006"
   location = "Kula Lumpur, Malaysia"
   date_start = "2016-09-01"
   date_end = "2018-09-01"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """ """
 
 +++
