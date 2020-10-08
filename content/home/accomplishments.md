@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2020-02-01"
   date_end = ""
-  description = ""
+  description = "Co-ivestigator"
 
 [[item]]
   organization = "edX"
