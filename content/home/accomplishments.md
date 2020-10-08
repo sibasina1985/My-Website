@@ -58,7 +58,7 @@ date_format = "Jan 2006"
   date_end = "2020-12-30"
   description = ""
 
-  [[item]]
+[[item]]
   organization = "Graduate Fellowship: Amirkabir University of Technology"
   organization_url = ""
   title = """Quantifying stability and coordination in agility drills"""
@@ -66,5 +66,65 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2009-09-01"
   date_end = "2014-06-01"
+  description = ""
+
+[[item]]
+  organization = """Government of Ontario, Ministry of Seniors and Accessibility"""
+  organization_url = ""
+  title = "Focus on Accessibility Awards"
+  url = ""
+  certificate_url = ""
+  date_start = "2020"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "CIHR"
+  organization_url = ""
+  title = "Travel Award"
+  url = ""
+  certificate_url = ""
+  date_start = "2019"
+  date_end = ""
+  description = ""
+
+[item]]
+  organization = "AGE-WELL NCE"
+  organization_url = ""
+  title = "ACCESS Award"
+  url = ""
+  certificate_url = ""
+  date_start = "2019"
+  date_end = ""
+  description = ""
+
+[item]]
+  organization = "UHN Office of Research Trainees"
+  organization_url = ""
+  title = "Travel Award"
+  url = ""
+  certificate_url = ""
+  date_start = "2019"
+  date_end = ""
+  description = ""
+
+[item]]
+  organization = "AGE-WELL NCE"
+  organization_url = ""
+  title = "Travel Award"
+  url = ""
+  certificate_url = ""
+  date_start = "2018"
+  date_end = ""
+  description = ""
+
+[item]]
+  organization = "2nd International Berlin Autumn School on Movement Science"
+  organization_url = ""
+  title = "Travel Award"
+  url = ""
+  certificate_url = ""
+  date_start = "2015"
+  date_end = ""
   description = ""
 +++
