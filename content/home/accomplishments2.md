@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 50
 
-title: Accomplish&shy;ments
+title: Certificates
 subtitle:
 
 # Date format
@@ -24,43 +24,53 @@ date_format: Jan 2006
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   You can begin a multiline `description` using YAML's `|-`.
-item:
-- certificate_url:
-  date_end: ""
-  date_start: "2020-02-01"
-  description: ""
-  organization: University of Toronto
-  organization_url:
-  title: Certificate of University Teaching Fundamentals 
-  url: "https://tatp.utoronto.ca/"
+
 
 item:
-- certificate_url:
-  date_end: ""
-  date_start: "2020-02-01"
-  description: ""
-  organization: University of Toronto
-  organization_url:
-  title: Certificate of Advanced University Teaching 
-  url: "https://tatp.utoronto.ca/"
 
-item:
 - certificate_url:
-  date_end: ""
-  date_start: "2020-02-01"
-  description:
-  organization: University of Toronto
-  organization_url:
-  title: Certificate of Prospective Professors in Training
-  url: ""
-
-item:
-- certificate_url:
-  date_end: ""
+  date_end:
   date_start: "2020-07-01"
   description: ""
   organization: Neuromatch Academy
   organization_url:
-  title: Computational Neuroscience 
-  url: "https://www.neuromatchacademy.org/"
+  title: Computational Neuroscience
+  url: https://www.neuromatchacademy.org/
+  
+- certificate_url:
+  date_end:
+  date_start: 2019-10-01
+  description:
+  organization: CAMH
+  organization_url:
+  title: Transcranial magnetic stimulation
+  url: http://www.camh.ca/
+
+- certificate_url:
+  date_end: 
+  date_start: "2020-02-01"
+  description: 
+  organization: University of Toronto
+  organization_url:
+  title: University Teaching Fundamentals 
+  url: https://tatp.utoronto.ca/
+
+- certificate_url:
+  date_end: 
+  date_start: 2020-02-01
+  description:
+  organization: University of Toronto
+  organization_url:
+  title: Advanced University Teaching 
+  url: https://tatp.utoronto.ca/
+
+- certificate_url:
+  date_end:
+  date_start: 2020-02-01
+  description:
+  organization: University of Toronto
+  organization_url:
+  title: Prospective Professors in Training
+  url: 
+
 ---
