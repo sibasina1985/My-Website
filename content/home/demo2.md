@@ -27,7 +27,7 @@ Grants:
 
  Fellowships:
 ----------
-* September 2020. **AGE-WELL postdoc fellowship**- Artificial intelligence for the real-time prediction of optimal foot placement in the gait of older adults
+* September 2020- **AGE-WELL postdoc fellowship**- Artificial intelligence for the real-time prediction of optimal foot placement in the gait of older adults
  
 + January 2019- December 2020. **Mitacs Accelerate postdoc fellowship**- A Vision-based system for intelligent monitoring of gait poses in Dementia
 
@@ -35,3 +35,14 @@ Grants:
 
 Awards:
 ----------
+* 2020- Focus on Accessibility Awards- Government of Ontario, Ministry of Seniors and Accessibility
+
++ 2019- CIHR Travel Award
+
+* 2019- AGE-WELL ACCESS Award
+
++ 2019- UHN Travel Award
+
+* 2018- AGE-WELL Travel Award
+
++ 2015- 2nd International Berlin Autumn School on Movement Science Travel Award
