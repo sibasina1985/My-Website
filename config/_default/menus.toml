@@ -10,27 +10,27 @@
 
 [[main]]
   name = "Skills"
-  url = "#Skills"
+  url = "#skills"
   weight = 20
 
 [[main]]
   name = "Experience"
-  url = "#Experience"
+  url = "#experience"
   weight = 30
 
 [[main]]
   name = "Certificates"
-  url = "#Certificates"
+  url = "#accomplishments2"
   weight = 40
 
 [[main]]
   name = "Grants, Award, Fellowships"
-  url = "#Grants, Awards & Fellowships"
+  url = "#demo2"
   weight = 50
 
 [[main]]
   name = "Publications"
-  url = "#Publications"
+  url = "#publications"
   weight = 60
 
 
