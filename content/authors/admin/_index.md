@@ -15,7 +15,7 @@ role: Postdoctoral Fellow
 # Organizations/Affiliations
 organizations:
 - name: Toronto Rehabilitation Institute- University Health Network
-  url: "www.kite-uhn.com"
+  url: https://kite-uhn.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I study neuromechanics of human walking 
