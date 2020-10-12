@@ -21,10 +21,11 @@ organizations:
 bio: I study neuromechanics of human walking 
 
 interests:
+- Locomotion neuromechanics
 - Biomechanics
-- Motor Control
 - Gait
-- Motor variability
+- Motor Control
+- Movement variability
 
 education:
   courses:
@@ -55,6 +56,9 @@ social:
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Sina_Mehdizadeh
+- icon: linkedin-in
+  icon_pack: fab
+  link: https://www.linkedin.com/in/sina-mehdizadeh/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -75,4 +79,4 @@ highlight_name: true
 #- Visitors
 ---
 
-I am a postdoctoral fellow at the Toronto Rehabilitation Institute. My research interests include neuromechanics of human locomotion.
+I am a postdoctoral fellow at the Toronto Rehabilitation Institute-UHN, Toronto, Canada. My research  is on the neuromechanics of human locomotion. In other words, I try to understand priniciples underlying control of walking balance and to use these principles to design rehabilitation protocols for affected groups such as older adults at risk of falls. My research results have been published in premier academic journals in the field of biomechanics, motor control, and gerontology.
