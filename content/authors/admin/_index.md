@@ -61,7 +61,7 @@ social:
   link: https://www.linkedin.com/in/sina-mehdizadeh/
 - icon: orcid
   icon_pack: ai
-  link: hhttps://orcid.org/0000-0002-8598-6176
+  link: https://orcid.org/0000-0002-8598-6176
   
 
 # Link to a PDF of your resume/CV from the About widget.
