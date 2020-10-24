@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Sina Mehdizadeh, PhD
+title: Sina Mehdizadeh
 
 # Username (this should match the folder name)
 authors:
