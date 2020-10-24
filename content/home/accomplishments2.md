@@ -36,7 +36,7 @@ item:
   organization_url:
   title: Computational Neuroscience
   url: https://www.neuromatchacademy.org/
-  
+
 - certificate_url:
   date_end:
   date_start: 2019-10-01
@@ -71,6 +71,6 @@ item:
   organization: University of Toronto
   organization_url:
   title: Prospective Professors in Training
-  url: 
+  url: https://gradstudies.engineering.utoronto.ca/research-degrees/prospective-professors-in-training/
 
 ---
