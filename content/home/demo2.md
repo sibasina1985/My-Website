@@ -27,7 +27,7 @@ Grants:
 
  Fellowships:
 ----------
-* September 2020-September 2022 **CANSSI Ontario Postdoc Fellowship**- Deep learning to predict optimality of future foot placements in walking of older adults - 10K CAD
+* September 2020-September 2022. **CANSSI Ontario Postdoc Fellowship**- Deep learning to predict optimality of future foot placements in walking of older adults - 10K CAD
 
 * September 2020-September 2021 **AGE-WELL postdoc fellowship**- Artificial intelligence for the real-time prediction of optimal foot placement in the gait of older adults- 20K CAD
  
