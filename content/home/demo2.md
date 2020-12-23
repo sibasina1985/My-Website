@@ -27,22 +27,24 @@ Grants:
 
  Fellowships:
 ----------
-* September 2020- **AGE-WELL postdoc fellowship**- Artificial intelligence for the real-time prediction of optimal foot placement in the gait of older adults
- 
-+ January 2019- December 2020. **Mitacs Accelerate postdoc fellowship**- A Vision-based system for intelligent monitoring of gait poses in Dementia
+* September 2020-September 2022 **CANSSI ONTARIO Postdoc FEllowship**- Deep learning to predict optimality of future foot placements in walking of older adults - 10K CAD
 
-* September 2009- June 2014. **Graduate fellowship**- Quantifying stability and coordination in agility drills
+* September 2020-September 2021 **AGE-WELL postdoc fellowship**- Artificial intelligence for the real-time prediction of optimal foot placement in the gait of older adults- 20K CAD
+ 
++ January 2019- December 2020. **Mitacs Accelerate postdoc fellowship**- A Vision-based system for intelligent monitoring of gait poses in Dementia- 45K CAD
+
+* September 2009- June 2014. **Graduate fellowship**- Quantifying stability and coordination in agility drills- Covered tution fees
 
 Awards:
 ----------
-* 2020- Focus on Accessibility Awards- Government of Ontario, Ministry of Seniors and Accessibility
+* 2020- Focus on Accessibility Awards- Government of Ontario, Ministry of Seniors and Accessibility - 2K CAD
 
-+ 2019- CIHR Travel Award
++ 2019- CIHR Travel Award - 1K CAD
 
-* 2019- AGE-WELL ACCESS Award
+* 2019- AGE-WELL ACCESS Award - 2K CAD
 
-+ 2019- UHN Travel Award
++ 2019- UHN Travel Award - 500 CAD
 
-* 2018- AGE-WELL Travel Award
+* 2018- AGE-WELL Travel Award - covered travel and accommodation
 
-+ 2015- 2nd International Berlin Autumn School on Movement Science Travel Award
++ 2015- 2nd International Berlin Autumn School on Movement Science Travel Award - covered travel and accommodation
